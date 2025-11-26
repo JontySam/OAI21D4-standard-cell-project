@@ -6,7 +6,7 @@ This repository contains the design and verification files for an OAI21D4 (OR-AN
 
 ## 2. Project Goal
 
-The objective of this project is to design a standalone OAI21D4 standard cell using the TSMC 16nm FinFET process. The final deliverable is a verified layout that is DRC and LVS clean and is suitable for integration into a larger digital design.
+The objective of this project is to design a standalone OAI21D4 standard cell using the TSMC 16nm FinFET process. The final deliverable is a verified layout that is DRC and LVS clean.
 
 ## 3. Cell Logic
 
